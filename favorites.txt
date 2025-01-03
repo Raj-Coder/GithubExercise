@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 Hyderabad Biryani
 Desert
+=======
+Khaaidi
+Kathi
+Adithya365
+>>>>>>> movies
